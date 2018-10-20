@@ -1,5 +1,5 @@
 _repo: Lives-of-the-English-Poets-Waller-Milton-Cowley_5098
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'English poetry -- Early modern, 1500-1700 -- History and criticism'
 - !lcc 'PR'
 - !lcsh 'English poetry -- 18th century -- History and criticism'
+- GITenberg
 title: 'Lives of the English Poets : Waller, Milton, Cowley'
 url: http://www.gutenberg.org/ebooks/5098
